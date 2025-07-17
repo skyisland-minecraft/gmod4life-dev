@@ -1,0 +1,10 @@
+{
+	"title": "Advanced Warn System",
+	"type": "ServerContent",
+	"tags": ["roleplay", "admin"],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
